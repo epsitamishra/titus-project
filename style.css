@@ -1,0 +1,141 @@
+* {
+  text-align: center;
+  padding: 0%;
+  margin: 0%;
+}
+
+.first {
+  background-color: rgb(255, 216, 204);
+  height: 100vh;
+}
+img {
+  height: 70%;
+  padding-top: 0%;
+  width: 100%;
+  padding-top: 6px;
+}
+h1 {
+  font-family: "Norican", cursive;
+  font-size: 155px;
+  font-weight: 400;
+  padding-bottom: 0%;
+  padding-top: 9%;
+  color: rgb(81, 18, 129);
+}
+
+.second {
+  background-color: rgb(240, 217, 231);
+  height: 255vh;
+}
+
+.second-img {
+  height: 14%;
+  width: 16%;
+}
+h2 {
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  text-align: center;
+  font-size: 50px;
+  color: rgb(81, 18, 129);
+  margin-bottom: 10%;
+}
+p {
+  font-size: 25px;
+  margin: 15%;
+  margin-top: 4%;
+}
+.third {
+  background-color: rgb(240, 217, 231);
+}
+.third-img {
+  float: left;
+  margin-left: 25%;
+  height: 14%;
+  width: 16%;
+}
+
+hr {
+  border-style: dotted;
+  border-width: 10px 0 0 0;
+  color: #a7bb;
+  margin-left: 45%;
+  width: 10%;
+  height: 5%;
+}
+p,
+h2 {
+  margin: 2%;
+}
+h3 {
+  font-size: 30px;
+  color: rgb(81, 18, 129);
+  text-align: center;
+  padding-right: 50%;
+}
+.btn {
+  background: #900fd1;
+  background-image: -webkit-linear-gradient(top, #900fd1, #2e1659);
+  background-image: -moz-linear-gradient(top, #900fd1, #2e1659);
+  background-image: -ms-linear-gradient(top, #900fd1, #2e1659);
+  background-image: -o-linear-gradient(top, #900fd1, #2e1659);
+  background-image: linear-gradient(to bottom, #900fd1, #2e1659);
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  text-shadow: 4px 6px 9px #6600ff;
+  -webkit-box-shadow: 6px 6px 12px #666666;
+  -moz-box-shadow: 6px 6px 12px #666666;
+  box-shadow: 6px 6px 12px #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 22px;
+  padding: 8px 19px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #2784ba;
+  background-image: -webkit-linear-gradient(top, #2784ba, #1a50d9);
+  background-image: -moz-linear-gradient(top, #2784ba, #1a50d9);
+  background-image: -ms-linear-gradient(top, #2784ba, #1a50d9);
+  background-image: -o-linear-gradient(top, #2784ba, #1a50d9);
+  background-image: linear-gradient(to bottom, #2784ba, #1a50d9);
+  text-decoration: none;
+}
+.third {
+  background-color: rebeccapurple;
+  height: 20vh;
+}
+a {
+  font-size: 50px;
+  color: gainsboro;
+  text-decoration: none;
+  padding: 1.5%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.second-para {
+  margin-right: 20%;
+  margin-bottom: 10%;
+}
+.fourth-img {
+  float: right;
+  height: 14%;
+  width: 16%;
+  margin-right: 7%;
+}
+.third-para {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+h4 {
+  font-size: 30px;
+  color: rgb(81, 18, 129);
+  text-align: center;
+}
+h5{ font-size: 30px;
+  color: rgb(81, 18, 129);
+padding-right:1%;}
+h6{ font-size: 40px;}
+
